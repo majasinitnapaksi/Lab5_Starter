@@ -9,3 +9,9 @@ Name: Soohwan Jeon
 
 2. Yes, I would use a unit test to test the max message length feature because it can be checked as a small isolated piece of logic. For example, I can test that a string longer than 80 characters is rejected and a string with 80 or fewer characters is accepted.
 
+GitHub Pages expose.html:
+https://majasinitnapaksi.github.io/Lab5_Starter/
+
+
+GitHub Pages explore.html:
+https://majasinitnapaksi.github.io/Lab5_Starter/
